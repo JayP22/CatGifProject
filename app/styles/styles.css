@@ -1,0 +1,38 @@
+/*background color pink*/
+body{
+	background: #ff99e6; 
+}
+/*adding shadow effect to header*/
+header, h1 {
+    text-align: center;
+    font-size: 2.5em;
+    margin: 10px;
+    margin-bottom: 14px;
+    text-shadow: 1px 1px 1px #ff66ff, 3px 3px 5px #33d6ff;
+}
+/*centering display and buttons*/
+.container {
+    text-align: center;
+}
+/*styling the cat fact*/
+p {
+    font-size: 1.5em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+/*fixing NyanCat to bottom center of the page*/
+.centFooter {
+    position: fixed;
+    bottom: 10px;
+    width: 100%;
+}
+
+footer {
+ font-size: 0.75em;
+ clear: both;
+ padding-top: 50px
+ color: #ccc;
+ text-align: center;
+}
+
+
